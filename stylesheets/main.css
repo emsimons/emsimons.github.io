@@ -1,0 +1,21 @@
+
+:root {
+    --dblue: #2b69a6;
+    --burnt: #ba741e;
+  }
+
+body {
+    background-color: rgb(224, 236, 240);
+  }
+  
+h1 {
+    color: var(--dblue);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 20px;
+  }
+
+p {
+    color: var(--burnt);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
